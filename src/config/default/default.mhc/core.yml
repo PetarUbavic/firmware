@@ -1249,7 +1249,7 @@ children:
     - type: Values
       children:
       - type: Dynamic
-        attributes: {id: core, value: '6000000'}
+        attributes: {id: core, value: '120000000'}
   - type: Integer
     attributes: {id: REFO3_CLOCK_FREQUENCY}
     children:
@@ -1270,7 +1270,7 @@ children:
     - type: Values
       children:
       - type: Dynamic
-        attributes: {id: core, value: '1500000'}
+        attributes: {id: core, value: '30000000'}
   - type: Integer
     attributes: {id: SPI1_CLOCK_FREQUENCY}
     children:

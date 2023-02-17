@@ -27,13 +27,13 @@ files:
   security: NON_SECURE
   type: SOURCE
   userChecksum: null
-- generatedChecksum: 30F27299A2B235E818CE72ED36005EB8
+- generatedChecksum: 6600C2FE9E4C05578171F591B9A04A47
   logicalPath: config/default/peripheral/canfd
   name: plib_canfd4.c
   physicalPath: peripheral/canfd
   security: NON_SECURE
   type: SOURCE
-  userChecksum: 30F27299A2B235E818CE72ED36005EB8
+  userChecksum: 6600C2FE9E4C05578171F591B9A04A47
 - generatedChecksum: 2407DC5AC8F7986DB388E23DFCE1AFAD
   logicalPath: config/default/peripheral/clk
   name: plib_clk.c
@@ -75,7 +75,7 @@ files:
   physicalPath: ''
   security: NON_SECURE
   type: HEADER
-  userChecksum: 0B0C972CCA8FCFE70BBB61213CFE1369
+  userChecksum: 08AA9713C554C1AFC9014DC21AECA643
 - generatedChecksum: E189C26B2269F8DE46033CCD0621958D
   logicalPath: config/default
   name: device.h
@@ -90,13 +90,13 @@ files:
   security: NON_SECURE
   type: HEADER
   userChecksum: 4CF4A86296482D5331331BA301C20BB2
-- generatedChecksum: B31A08EBFB030FBABCA75CA29A4B8484
+- generatedChecksum: 8A2A53DD95F9E90E2C13840C10405785
   logicalPath: config/default/peripheral/canfd
   name: plib_canfd4.h
   physicalPath: peripheral/canfd
   security: NON_SECURE
   type: HEADER
-  userChecksum: B31A08EBFB030FBABCA75CA29A4B8484
+  userChecksum: 8A2A53DD95F9E90E2C13840C10405785
 - generatedChecksum: AEFE39C8E52415FE642815364C699E0C
   logicalPath: config/default/peripheral/canfd
   name: plib_canfd_common.h
